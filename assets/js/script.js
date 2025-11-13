@@ -2,7 +2,7 @@
 /**
  * Carregando os links e imagens ao iniciar a pagina
  */
-document.addEventListener("DOMContentLoaded", async() => {
+document.addEventListener("DOMContentLoaded", () => {
   // Banner
   document.getElementById("banner-link").href = "https://aiesec.org.br";
   document.getElementById("banner-img").src = "https://mcusercontent.com/611b199bd85d5c0002552a52a/images/0a1c1bd0-c87d-1f10-3a77-f80f9f88a8c1.jpg";
