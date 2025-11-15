@@ -5,7 +5,7 @@
 document.addEventListener("DOMContentLoaded", () => {
   // Banner
   document.getElementById("banner-link").href = "https://aiesec.org.br";
-  document.getElementById("banner-img").src = "https://mcusercontent.com/611b199bd85d5c0002552a52a/images/0a1c1bd0-c87d-1f10-3a77-f80f9f88a8c1.jpg";
+  document.getElementById("banner-img").src = "https://res.cloudinary.com/dqallznac/image/upload/v1763242709/BannerPsel_jtskda.png";
 
   // Botão do formulário
   document.getElementById("form-link").href = `https://forms.gle/seu-formulario?id=${getUrlParameter()}`;
@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("insta-link").href = "https://www.instagram.com/aiesecpelobrasil/reels/?__d=1";
 
   // Logo do rodapé
-  document.getElementById("footer-img").src = "https://mcusercontent.com/611b199bd85d5c0002552a52a/images/40657521-852c-fe0e-6f0a-810273977ab3.png";
+  document.getElementById("footer-img").src = "https://res.cloudinary.com/dqallznac/image/upload/v1763242708/LogoAiesec_yvxwg5.png";
   document.getElementById("site-link").href = "https://aiesec.org.br";
 });
 
