@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Instagram
   document.getElementById("insta-link").href = "https://www.instagram.com/aiesecpelobrasil/reels/?__d=1";
-
+  document.getElementById("whats-link").href = "https://chat.whatsapp.com/Glqs8nyEluMKIY2uQ8k2XJ";
   // Logo do rodapé
   document.getElementById("footer-img").src = "https://res.cloudinary.com/dqallznac/image/upload/v1763242708/LogoAiesec_yvxwg5.png";
   document.getElementById("site-link").href = "https://aiesec.org.br";
